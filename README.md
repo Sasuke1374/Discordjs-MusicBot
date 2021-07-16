@@ -13,14 +13,14 @@
 
 <img width="30" src="https://img.icons8.com/fluent/2x/instagram-new.png"> 
 
-- nithish_codez
+- Khunn×Xenon
 
-## Showcase <img width="20px" src="https://img.icons8.com/android/2x/camera.png" >
-<p align="center"><img src="https://nithish.is-inside.me/wAhyjaXg.png"></p>
-<p align="center"><img src="https://nithish.is-inside.me/onKw13Xw.png"></p>
-<p align="center"><img src="https://nithish.is-inside.me/x8RjL5Q2.png"></p>
-<p align="center"><img src="https://nithish.is-inside.me/aDf7OpxY.png"></p>
-and many more...
+
+
+
+
+
+
 
 ## Credits
 As always queue system is partially adapted from [@Khunn×Xenon](https://github.com/Sasuke1374) [Xenon III](https://github.com/Sasuke1374/xenoniii-music-bot)
