@@ -1,15 +1,15 @@
-<h1 align="center">Discord Music Bot - Professional</h1>
+<h1 align="center">XenonIII Music Bot - Professional</h1>
 <div align="center">
-<p align="center">Thanks for 5k Views on the v1 bot, Enjoy with v2</p>
+<p align="center">Thanks for Views on the X3 bot, Enjoy with v2</p>
 <img src="./media/banner.gif"></div>
 
 ## Tutorial <img width="20px" src="https://img.icons8.com/fluent/2x/youtube-play.png">
-[Click Me](https://www.youtube.com/watch?v=8wopOm4598Q) To watch the video
+[Click Me](https://discord.gg/wCAzcpp3) To join the server
 
 ## Contact Me
 <img width="30" src="https://img.icons8.com/fluent/2x/discord-logo.png"> 
 
-- Nithish#6593
+- KhunN×Xenon 0_0#1374
 
 <img width="30" src="https://img.icons8.com/fluent/2x/instagram-new.png"> 
 
@@ -23,4 +23,4 @@
 and many more...
 
 ## Credits
-As always queue system is partially adapted from [@icrawl's](https://github.com/iCrawl) [MusicBotRepo](https://github.com/iCrawl/discord-music-bot)
+As always queue system is partially adapted from [@Khunn×Xenon](https://github.com/Sasuke1374) [Xenon III](https://github.com/Sasuke1374/xenoniii-music-bot)
